@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net10.0-android</TargetFramework>
+        <SupportedOSPlatformVersion>26</SupportedOSPlatformVersion>
+        <AndroidTargetSdkVersion>35</AndroidTargetSdkVersion>
+        <TargetFrameworkVersion>35</TargetFrameworkVersion>
+        <AndroidMinSdkVersion>26</AndroidMinSdkVersion>
+        <ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
+        <ApplicationId>com.companyname.Android</ApplicationId>
+        <EmbedAssembliesIntoApk>true</EmbedAssembliesIntoApk>
+        <ApplicationVersion>1</ApplicationVersion>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="$(SolutionDir)\App\App.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Hybrid2D.Android" Version="*" />
+    </ItemGroup>
+
+</Project>
