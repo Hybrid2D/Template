@@ -14,4 +14,20 @@ Created by Lloyd J Howarth
 ![Web](https://img.shields.io/badge/Web-7400ff?logo=googlechrome&logoColor=white)
 
 This is the official Hybrid2D template using the latest release version
+
+<h2 id="overview">🔍 Overview</h2>
+
+
+🌐 1. Clone the source: `git clone https://github.com/Hybrid2D/Template.git`
+
+📂 2. Open 'Template.sln' in your favourite IDE such as [Rider](https://www.jetbrains.com/rider) or [Visual Studio](https://visualstudio.microsoft.com)
+
+🎮 3. Develop in the 'App' project provided to you
+
+🚀 4. Build & launch your game
+
+<br>
+
+Please visit the [website](https://hybrid2d.github.io/Hybrid) for more information.
+
 </div>
