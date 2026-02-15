@@ -15,7 +15,7 @@ Created by Lloyd J Howarth
 
 This is the official Hybrid2D template using the latest release version
 
-<h2 id="overview">🔍 Overview</h2>
+**Overview**
 
 
 🌐 1. Clone the source: `git clone https://github.com/Hybrid2D/Template.git`
