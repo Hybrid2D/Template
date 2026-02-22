@@ -18,7 +18,7 @@ This is the official Hybrid2D template using the latest release version
 **Overview**
 
 
-🌐 1. Clone the source: `git clone https://github.com/Hybrid2D/Template.git`
+🌐 1. Clone the source: `git clone https://github.com/Hybrid-Framework/Hybrid2D-Template.git`
 
 📂 2. Open 'Template.sln' in your favourite IDE such as [Rider](https://www.jetbrains.com/rider) or [Visual Studio](https://visualstudio.microsoft.com)
 
