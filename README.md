@@ -28,6 +28,6 @@ This is the official Hybrid2D template using the latest release version
 
 <br>
 
-Please visit the [website](https://hybrid2d.github.io/Hybrid) for more information.
+Please visit the [website](https://www.hybrid2d.com) for more information.
 
 </div>
